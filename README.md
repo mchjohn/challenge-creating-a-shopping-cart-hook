@@ -1,8 +1,6 @@
 ## Preview
 
-<img src="https://github.com/mchjohn/
-challenge-creating-a-shopping-cart-hook/blob/main/img/rocketshoes.png" data-canonical-src="https://github.com/mchjohn/
-challenge-creating-a-shopping-cart-hook/blob/main/img/rocketshoes.png" width="968" height="520" />
+<img src="https://github.com/mchjohn/challenge-creating-a-shopping-cart-hook/blob/master/imgs/rocketshoes.png" data-canonical-src="https://github.com/mchjohn/challenge-creating-a-shopping-cart-hook/blob/master/imgs/rocketshoes.png" width="968" height="520" />
 
 ## Sobre esse projeto
 
